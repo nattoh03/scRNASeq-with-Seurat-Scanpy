@@ -1,0 +1,5 @@
+#mkdir PBMC_data
+# wget http://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz -O PBMC_data/pbmc3k_filtered_gene_bc_matrices.tar.gz
+# !cd PBMC_data; tar -xzf pbmc3k_filtered_gene_bc_matrices.tar.gz
+# !mkdir write
+https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html
